@@ -29,10 +29,10 @@ The project was split among two semesters, and while the project remained the sa
 iterations. 
 #### Spring 2016
 1. Scripts/specific_agency_data_desrciptions.do: histograms, summary statistics, graphs for agencies included in dataset; used in project proposal.
-2. Scripts/Analysis_Specific.do
+2. Scripts/Actual_Analysis_Specific.do: analysis used for US Executive Politics; various models included (possion, binomial, probit).
 3. Scripts/Analysis.do: descriptive statistics, histogram, and graphs for analyzed dataset (combined ideology, agencies, and court information).
-4. Scripts/Final Analysis.do
-5. Scripts/Probit_Model.do
+4. Scripts/Final Analysis.do: logit models used for OLS course paper 
+5. Scripts/Probit_Model.do: defunct: probit models intended to be used for US Executive Politics paper 
 6. Scripts/Data_Building.do: importing, cleaning, and preparing data file for analysis (converted from .xlsx to .dta).
 7. FinalManuscripts/Final_Version.pdf: created using TexMaker; final draft of paper submitted for OLS and US Executive requirements.  
 8. FinalManuscripts/Final_Appendix.pdf: created in TexMaker; final draft of Appendix 
