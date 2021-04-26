@@ -19,7 +19,7 @@ Term paper to fulfill requirements of three courses (MLE, OLS, US Executive)
 The project was split among two semesters, and while the project remained the same, methodology and coding changed between project
 
 #### Fall 2016
-Scripts/analysis.do
+1. Scripts/analysis.do
 2. Scripts/descriptive_stats.do
 3. Scripts/dataset_formatting.do
 4. Scripts/formatting.do
