@@ -34,8 +34,8 @@ iterations.
 4. Scripts/Final Analysis.do
 5. Scripts/Probit_Model.do
 6. Scripts/Data_Building.do
-7. FinalManuscripts/Final_Version.pdf: created using TexMaker; final draft of paper submitted for OLS requirements.  
-8. FinalManuscripts/Final_Appendix.pdf: created in TexMaker; Appendix submitted independently of paper per OLS course requirements.
+7. FinalManuscripts/Final_Version.pdf: created using TexMaker; final draft of paper submitted for OLS and US Executive requirements.  
+8. FinalManuscripts/Final_Appendix.pdf: created in TexMaker; final draft of Appendix 
 9. FinalManuscripts/Draft, April 27 2016.pdf: created using Beamer; presentation for Executive Politics course.
 10. FinalManuscripts/Aklin, Presentation.pdf: created in OpenOffice; presentation for OLS course.
 
