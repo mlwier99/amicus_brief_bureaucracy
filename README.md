@@ -2,15 +2,15 @@
 
 **Author:** Michelle Wier
 
-**Original Date:**
+**Original Date:** Fall 2016; Spring 2016
 
-**Last Updated Code:**
+**Last Updated Code:** April 2016
 
 **Programs:** Microsoft Excel; Stata 14, 15; LaTeX (TexMaker); OpenOffice Presentation
 
 ## Project
 ### Purpose 
-Term paper to fulfill requirements of three courses (MLE, OLS, uS Executive)
+Term paper to fulfill requirements of three courses (MLE, OLS, US Executive)
 ### Summary
 
 
