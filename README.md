@@ -46,8 +46,6 @@ Data files (.dta, .xlsx) can be made available upon request.
 
 ## Notes 
 
-<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-
 <span style="font-size:2em">*Added to GH:* April 25 2021</span>
 
 <span style="font-size:2em">*Updated on GH:* April 26 2021</span>
