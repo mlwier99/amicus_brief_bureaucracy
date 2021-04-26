@@ -41,9 +41,11 @@ iterations.
 
 
 Data files (.dta, .xlsx) can be made available upon request.
-### Files Not Uploaded 
+
+.tex files to be added soon. 
 
 ## Notes 
 
 
-**Added to GH:** April 25 2021
+*Added to GH:* April 25 2021
+*Updated on GH:* April 26 2021
