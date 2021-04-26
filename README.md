@@ -35,15 +35,15 @@ iterations.
 5. Scripts/Probit_Model.do
 6. Scripts/Data_Building.do
 7. FinalManuscripts/Final_Version.pdf
-8. FinalManuscripts/Final_Appendix.pdf
-9. FinalManuscripts/Draft, April 27 2016.pdf
-10. FinalManuscripts/Aklin, Presentation.pdf
+8. FinalManuscripts/Final_Appendix.pdf: created in TexMaker; Appendix submitted independently of paper per OLS course requirements.
+9. FinalManuscripts/Draft, April 27 2016.pdf: created using Beamer; presentation for Executive Politics course.
+10. FinalManuscripts/Aklin, Presentation.pdf: created in OpenOffice; presentation for OLS course.
 
 
 Data files (.dta, .xlsx) can be made available upon request.
 ### Files Not Uploaded 
 
-## Notes
+## Notes 
 
 
 **Added to GH:** April 25 2021
