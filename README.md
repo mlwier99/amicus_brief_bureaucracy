@@ -23,8 +23,8 @@ The project was split among two semesters, and while the project remained the sa
 2. Scripts/descriptive_stats.do
 3. Scripts/dataset_formatting.do
 4. Scripts/formatting.do
-5. FinalManuscripts/FinalTurnedIn.pdf
-6. FinalManuscripts/Presentation.pdf
+5. FinalManuscripts/FinalTurnedIn.pdf: created using TexMaker; final draft of paper for MLE course requirements. 
+6. FinalManuscripts/Presentation.pdf: created using Beamer; unfinished draft of presentation (final draft to be uploaded later)
 
 iterations. 
 #### Spring 2016
