@@ -46,6 +46,6 @@ Data files (.dta, .xlsx) can be made available upon request.
 
 ## Notes 
 
-<span style="font-size:2em">*Added to GH:* April 25 2021</span>
+*Added to GH:* April 25 2021
 
-<span style="font-size:2em">*Updated on GH:* April 26 2021</span>
+*Updated on GH:* April 26 2021
