@@ -1,4 +1,4 @@
-# amicus_brief_bureaucracy
+# Bureaucratic Legal Filings in U.S. Circuit Courts
 
 **Author:** Michelle Wier
 
