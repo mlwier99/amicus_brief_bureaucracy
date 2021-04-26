@@ -19,10 +19,10 @@ Term paper to fulfill requirements of three courses (MLE, OLS, US Executive)
 The project was split among two semesters, and while the project remained the same, methodology and coding changed between project
 
 #### Fall 2016
-1. Scripts/analysis.do
-2. Scripts/descriptive_stats.do
-3. Scripts/dataset_formatting.do
-4. Scripts/formatting.do
+1. Scripts/analysis.do: final analysis for course requirements; include distribution within final dataset, result visuals, and models (two-stage craggit, mlogit, negative binomial) 
+2. Scripts/descriptive_stats.do: distribution and summary statistics for individual agencies.  
+3. Scripts/dataset_formatting.do: creating, combining, and otherwise preparing final dataset for analysis.
+4. Scripts/formatting.do: formatting of circuit court data 
 5. FinalManuscripts/FinalTurnedIn.pdf: created using TexMaker; final draft of paper for MLE course requirements. 
 6. FinalManuscripts/Presentation.pdf: created using Beamer; unfinished draft of presentation (final draft to be uploaded later)
 
